@@ -5,7 +5,7 @@ function Services() {
   return (
     <div>
       <SubHeader />
-      <div class="content-container">
+      <div className="content-container">
         <h1>Services</h1>
         <p>Discover the services we offer</p>
       </div>

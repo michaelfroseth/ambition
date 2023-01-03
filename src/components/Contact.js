@@ -5,7 +5,7 @@ function Contact() {
   return (
     <div>
       <SubHeader />
-      <div class="content-container">
+      <div className="content-container">
         <h1>Contact Us</h1>
         <p>Get in touch with us</p>
       </div>
